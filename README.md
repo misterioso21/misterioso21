@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @misterioso21
+
+- 👋 seja bem vindo ao meu perfil @misterioso21
 <!---
 misterioso21/misterioso21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -20,4 +21,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="157-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="157-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="157-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957428822003843112/960693124617875486/giphy.gif">
+</div>
+<div> 
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
